@@ -1,0 +1,1 @@
+NAME = 'plugin2'
